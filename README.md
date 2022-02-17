@@ -2,6 +2,7 @@
 
 ## Cool VTuber Models
 ![](https://github.com/SlickFromMars/vroid-stash/blob/main/slick/img/slick04.png)
+![](https://github.com/SlickFromMars/vroid-stash/blob/main/slick_remaster/img/slick_wip.png)
 ## Fictional Characters to Appear in Project Expansion
 ![](https://github.com/SlickFromMars/vroid-stash/blob/main/grim/img/grim02.png)
 ## Characters Based Off Of Real People
