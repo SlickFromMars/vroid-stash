@@ -12,3 +12,4 @@
 
 ## And... This?
 ![](https://github.com/SlickFromMars/vroid-stash/blob/main/grim/img/grim_cursed.png)
+![](https://github.com/SlickFromMars/vroid-stash/blob/main/slick/img/slick_cursed.png)
