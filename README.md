@@ -10,6 +10,7 @@
 ![](https://github.com/SlickFromMars/vroid-stash/blob/main/maddie/img/maddie02.png)
 ![](https://github.com/SlickFromMars/vroid-stash/blob/main/jazzy/img/jazzy02.png)
 ![](https://github.com/SlickFromMars/vroid-stash/blob/main/zach/img/zach04.png)
+![](https://github.com/SlickFromMars/vroid-stash/blob/main/raya/preview.png)
 
 ## And... This?
 ![](https://github.com/SlickFromMars/vroid-stash/blob/main/grim/img/grim_cursed.png)
